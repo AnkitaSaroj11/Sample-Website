@@ -1,0 +1,13 @@
+body{
+    background-image: url(/images/login.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+form{
+    height: 100%;
+}
+
+h1{
+    margin-left: 500px;
+}
